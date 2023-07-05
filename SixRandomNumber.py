@@ -1,23 +1,3 @@
-# import random
-#
-# num = int(input('Quantos números aleatórios você deseja gerar? '))
-#
-# for i in range(num):
-#     print(random.randint(1,60))
-
-# import random
-#
-# # gerando uma lista de 6 números aleatórios no intervalo de 1 a 60 sem repetições
-# numeros = random.sample(range(1, 61), 6)
-#
-# # ordenando a lista em ordem crescente
-# numeros.sort()
-#
-#     # imprimindo os números na tela
-# print("Números sorteados:")
-# for num in numeros:
-#     print(num)
-
 ### PROJETO DE 'SURPRESINHA' DE LOTERIA
 
 # Importação da biblioteca de números aleatórios
