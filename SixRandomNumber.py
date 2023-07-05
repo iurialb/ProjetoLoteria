@@ -18,6 +18,9 @@
 # for num in numeros:
 #     print(num)
 
+### PROJETO DE 'SURPRESINHA' DE LOTERIA
+
+# Importação da biblioteca de números aleatórios
 import random
 
 # pedindo ao usuário o número de elementos que deseja gerar
