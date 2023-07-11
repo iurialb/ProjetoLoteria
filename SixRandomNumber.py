@@ -1,4 +1,4 @@
-### PROJETO DE 'SURPRESINHA' DE LOTERIA
+### PROJETO DE 'SURPRESINHA' da Megasena
 
 # Importação da biblioteca de números aleatórios
 import random
