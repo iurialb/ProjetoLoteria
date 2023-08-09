@@ -1,4 +1,4 @@
-### PROJETO DE 'SURPRESINHA' da Megasena
+### PROJETO DE 'SURPRESINHA' da Megasena - Números de 6 a 15
 
 # Importação da biblioteca de números aleatórios
 import random
